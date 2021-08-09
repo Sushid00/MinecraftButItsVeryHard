@@ -1,0 +1,6 @@
+name: Mcbut...
+version: ${project.version}
+main: sushi.mcbut.Mcbut
+api-version: 1.17
+authors: [ Sushid00 ]
+description: Minecraft but everything is wrong
